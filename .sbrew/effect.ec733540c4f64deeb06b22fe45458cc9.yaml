@@ -1,0 +1,14 @@
+﻿FormatVersion: 6
+Name: "Heart 1"
+Script: "Heart"
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  262e98e41d37449fb51871e7846715ef:
+    Name: "Heart"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
